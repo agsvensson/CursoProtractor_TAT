@@ -1,5 +1,5 @@
-# curso-protractor-tat
-Projeto para o curso de Protractor da Escola TAT
+# CursoProtractor_TAT
+Projeto do curso de Protractor da Escola TAT
 
 ## Pré-requisitos
 

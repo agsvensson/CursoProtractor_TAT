@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wlsf82/curso-protractor-tat.git"
+    "url": "git+https://github.com/agsvensson/CursoProtractor_TAT.git"
   },
   "keywords": [
     "protractor",
@@ -35,9 +35,9 @@
   "author": "Arthur Svensson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wlsf82/curso-protractor-tat/issues"
+    "url": "https://github.com/agsvensson/CursoProtractor_TAT/issues"
   },
-  "homepage": "https://github.com/wlsf82/curso-protractor-tat#readme",
+  "homepage": "https://github.com/agsvensson/CursoProtractor_TAT#readme",
   "devDependencies": {
     "faker": "^5.5.3",
     "protractor": "^7.0.0",
