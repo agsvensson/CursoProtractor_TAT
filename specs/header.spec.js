@@ -1,4 +1,3 @@
-const faker = require('faker')
 const helper = require('protractor-helper')
 
 const pageSorter = require('../utils/pageSorter')
