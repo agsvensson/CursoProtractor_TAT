@@ -1,4 +1,7 @@
 # CursoProtractor_TAT
+
+[![Lint and tests](https://github.com/agsvensson/CursoProtractor_TAT/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/agsvensson/CursoProtractor_TAT/actions/workflows/continuous-integration.yml)
+
 Projeto do curso de Protractor da Escola TAT
 
 ## Pré-requisitos
@@ -9,7 +12,7 @@ Projeto do curso de Protractor da Escola TAT
 
 ## Instalação
 
-Após clonar o projeot, acesse o diretório do mesmo e execute `npm install` para instalar as dependências de desenvolvimento.
+Após clonar o projeto, acesse o diretório do mesmo e execute `npm install` para instalar as dependências de desenvolvimento.
 
 ## Executando os testes
 
